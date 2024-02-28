@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\bin\Debug\2a_organizer.exe.config
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\bin\Debug\2a_organizer.exe
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\bin\Debug\2a_organizer.pdb
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\2a_organizer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\_2a_organizer.Form1.resources
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\_2a_organizer.Properties.Resources.resources
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\2a_organizer.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\2a_organizer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\2a_organizer.exe
+C:\Users\DELL\source\repos\2a_organizer\2a_organizer\obj\Debug\2a_organizer.pdb
